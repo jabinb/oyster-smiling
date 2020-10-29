@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_OysterSmiling.1365100582.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="Commands" t="Include">
+        <e p="BasicCommands.cs" t="Include" />
+        <e p="ICommand.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="BotSettings.cs" t="Include" />
+      </e>
+      <e p="OysterMain.cs" t="Include" />
+      <e p="OysterSmiling.csproj" t="IncludeRecursive" />
+      <e p="OysterSmiling.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="WorkerServices" t="Include">
+        <e p="PhraseService.cs" t="Include" />
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="OysterSmiling.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="oyster_smiling.jpg" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
